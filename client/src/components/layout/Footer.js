@@ -4,8 +4,7 @@ import "../../App.css";
 export default () => {
   return (
     <footer className="bg-dark text-white mt-5 p-4 text-center footer">
-      Copyright &copy; {new Date().getFullYear()} 
-      DevNet
+      Copyright &copy; {new Date().getFullYear()}   DevNet
     </footer>
   );
 };
