@@ -5,6 +5,7 @@ import { connect } from 'react-redux';
 import { logoutUser } from '../../actions/authActions';
 import { clearCurrentProfile } from '../../actions/profileActions';
 
+
 class Navbar extends Component {
   onLogoutClick(e) {
     e.preventDefault();
@@ -82,6 +83,12 @@ class Navbar extends Component {
                 <Link className="nav-link" to="/profiles">
                   {' '}
                   Developers
+                </Link>
+              </li>
+              <li className="nav-item">
+                <Link className="nav-link" to="team">
+                  {' '}
+                  Team
                 </Link>
               </li>
             </ul>
