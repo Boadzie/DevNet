@@ -49,7 +49,7 @@ class Team extends Component {
 						</div>
 						<div className="team-content">
 							<h3>Joseph Akayesi</h3>
-							<span>Web Designer</span>
+							<span>Web Developer/ UX</span>
 						</div>
 					</div>
 				</div>
@@ -87,7 +87,7 @@ class Team extends Component {
 						</div>
 						<div className="team-content">
 							<h3>Victor Bruce-Grabbe</h3>
-							<span>Web Designer/ UX</span>
+							<span>Web Developer/ UX</span>
 						</div>
 					</div>
 				</div>
