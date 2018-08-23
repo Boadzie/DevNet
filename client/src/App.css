@@ -106,7 +106,12 @@ img {
 }
 
 .team-img>img {
-width: 100%;
+width: 80%;
+}
+
+.img-sizer{
+height: 240px;
+width: 300px;
 }
 
 .team .overlay {
