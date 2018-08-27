@@ -8,7 +8,7 @@ class Team extends Component {
     <div className="container color">
 		  <h1>About</h1>
 			<hr/>
-			<p className="big">This project was built by the <em><strong><a href={null}>Data Digger Group</a> </strong></em>
+			<p className="big">This project was built by the <em><strong><a href={null}>Data Diger Group</a> </strong></em>
 			 in collaboration with the <strong><a href={null}>2018/2019 (compssa) Administration of the Computer Science Department of the University of Ghana, Legon</a></strong>.
 			</p>
       <div id="team" class="section md-padding">
@@ -86,7 +86,7 @@ class Team extends Component {
 							</div>
 						</div>
 						<div className="team-content">
-							<h3>Victor Bruce-Grabbe</h3>
+							<h3>Victor Bruce-Crabbe</h3>
 							<span>Web Developer/ UX</span>
 						</div>
 					</div>
