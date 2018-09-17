@@ -53,25 +53,7 @@ class Team extends Component {
 						</div>
 					</div>
 				</div>
-
-				<div className="col-sm-4">
-					<div className="team">
-						<div className="team-img">
-							<img className="img-responsive img-sizer" src={require("../../img/joshua.jpg")} alt="team 2"/>
-							<div className="overlay">
-								<div className="team-social">
-								<SocialIcon url="http://twitter.com/in/jaketrent" color="#111A1C"/><br/>
-								<SocialIcon url="http://google-plus.com/in/jaketrent" color="#111A1C"/><br/>
-								<SocialIcon url="http://facebook.com/in/jaketrent" color="#111A1C"/>
-								</div>
-							</div>
-						</div>
-						<div className="team-content">
-							<h3>Joshua Odoi</h3>
-							<span>Systems Developer</span>
-						</div>
-					</div>
-				</div>
+				
 
 				<div className="col-sm-4">
 					<div className="team">
@@ -88,25 +70,6 @@ class Team extends Component {
 						<div className="team-content">
 							<h3>Victor Bruce-Crabbe</h3>
 							<span>Web Developer/ UX</span>
-						</div>
-					</div>
-				</div>
-
-				<div className="col-sm-4">
-					<div className="team">
-						<div className="team-img">
-							<img className="img-responsive img-sizer" src={require("../../img/totti.jpg")} alt="team 2"/>
-							<div className="overlay">
-								<div className="team-social">
-								<SocialIcon url="http://twitter.com/in/jaketrent" color="#111A1C"/><br/>
-								<SocialIcon url="http://google-plus.com/in/jaketrent" color="#111A1C"/><br/>
-								<SocialIcon url="http://facebook.com/in/jaketrent" color="#111A1C"/>
-								</div>
-							</div>
-						</div>
-						<div className="team-content">
-							<h3>Emmanuel Osei</h3>
-							<span>Web Designer/ UX</span>
 						</div>
 					</div>
 				</div>
